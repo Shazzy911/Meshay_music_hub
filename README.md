@@ -7,19 +7,19 @@ The project is built with a modern web stack and follows scalable backend archit
 ---
 
 ## 📌 Live Demo
-🔗 https://your-live-link.com  
+🔗 https://meshay-music-player.vercel.app/ 
 
 ---
 ## 📁 Repositories
 
 | Part | Link |
 |------|------|
-| 🎨 Frontend | https://github.com/your-username/frontend |
-| ⚙ Backend | https://github.com/your-username/backend |
-| 🧑‍💻 Admin Dashboard | https://github.com/your-username/dashboard |
+| 🎨 Frontend | https://github.com/Shazzy911/Meshay-music-player |
+| ⚙ Backend | https://github.com/Shazzy911/Meshay-music-backend |
+| 🧑‍💻 Admin Dashboard | https://github.com/Shazzy911/Meshay-dashboard |
 
 👉 Main Hub Repo:  
-https://github.com/your-username/meshay-music
+https://github.com/Shazzy911/Meshay_music_hub
 
 ## 📂 Project Structure
 
